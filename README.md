@@ -7,6 +7,7 @@ Project ini dibuat hanya menggunakan :
 
 - [HTML](https://html.spec.whatwg.org/)
 - [CSS](https://www.w3.org/TR/CSS/#css)
+- [JavaScript](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
 
 
 
